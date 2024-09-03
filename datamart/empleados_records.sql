@@ -1,0 +1,16 @@
+INSERT INTO Empleados (EmpleadoID, NombreEmpleado, Departamento) VALUES
+(1, 'Luis Martínez', 'Ventas'),
+(2, 'Ana García', 'Recursos Humanos'),
+(3, 'Carlos Rodríguez', 'Tecnología'),
+(4, 'María López', 'Marketing'),
+(5, 'Javier Fernández', 'Finanzas'),
+(6, 'Elena Sánchez', 'Atención al Cliente'),
+(7, 'Pablo Ruiz', 'Logística'),
+(8, 'Laura Torres', 'Ventas'),
+(9, 'Diego Moreno', 'Tecnología'),
+(10, 'Sofía Navarro', 'Recursos Humanos'),
+(11, 'Alejandro Jiménez', 'Marketing'),
+(12, 'Carmen Ortiz', 'Finanzas'),
+(13, 'Roberto Díaz', 'Atención al Cliente'),
+(14, 'Isabel Romero', 'Logística'),
+(15, 'Miguel Álvarez', 'Ventas');
